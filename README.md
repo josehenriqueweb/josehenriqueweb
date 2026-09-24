@@ -55,7 +55,6 @@ Também sou um entusiasta de tecnologia, hardware e otimização avançada de si
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=josehenriqueweb&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehenriqueweb&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ⭐ Se curtir meu trabalho, considere deixar uma estrela nos repositórios  
