@@ -1,62 +1,64 @@
-# Olá 👋, eu sou o José Henrique
+<h1 data-importer="text" align="left">Olá 👋, eu sou o José Henrique</h1>
 
-🚀 **Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação**  
-🇧🇷 Jaboatão dos Guararapes, Pernambuco, Brasil
+###
 
-Sou estudante universitário cursando **Análise e Desenvolvimento de Sistemas (ADS)**.  
-Atualmente, meu foco principal de aprendizado e desenvolvimento é em **Java (Lógica de programação, POO, Estruturas de controle)**, além de criar projetos unindo design e desenvolvimento de banco de dados.  
-Também sou um entusiasta de tecnologia, hardware e otimização avançada de sistemas.
+<p data-importer="text" align="left">🚀 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em Formação<br>🇧🇷 Jaboatão dos Guararapes, Pernambuco, Brasil<br><br>Sou estudante universitário cursando Análise e Desenvolvimento de Sistemas (ADS) .<br>Atualmente, meu foco principal de aprendizado e desenvolvimento é em Java (Lógica de programação, POO, Estruturas de controle) , além de criar projetos unindo design e desenvolvimento de banco de dados.<br>Também sou um entusiasta de tecnologia, hardware e otimização avançada de sistemas.</p>
 
----
+###
 
-## 🌐 Onde me encontrar
+<p data-importer="text" align="left">⭐ Se curtir meu trabalho, considere deixar uma estrela nos repositórios<br>🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos</p>
 
-<p align="left">
-  <a href="https://github.com/josehenriqueweb">
-    <img src="https://img.shields.io/badge/GitHub-JOSEHENRIQUEWEB-181717?style=for-the-badge&logo=github" />
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/josehenriqueweb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/henriquezzy7/">
-    <img src="https://img.shields.io/badge/Instagram-@HENRIQUEZZY7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="josehenriqueweb@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="mailto:josehenriqueweb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-JOSEHENRIQUEWEB@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.instagram.com/henriquezzy7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
----
+###
 
-## 🧠 O que eu faço
+<h3 data-importer="text" align="left">🧠 O que eu faço</h3>
 
--   🎓 Estudos e projetos em Análise e Desenvolvimento de Sistemas
--   ☕ Desenvolvimento com foco em Java e Orientação a Objetos
--   🌐 Criação de interfaces web e marcação
--   🗄️ Modelagem e gerenciamento de banco de dados
--   🎨 Design de interfaces e prototipagem interativa
--   ⚡ Otimização avançada de sistemas operacionais e hardware
+###
 
----
+<p data-importer="text" align="left">🎓 Estudos e projetos em Análise e Desenvolvimento de Sistemas<br>☕ Desenvolvimento com foco em Java e Orientação a Objetos<br>🌐 Criação de interfaces web e marcação<br>🗄️ Modelagem e gerenciamento de banco de dados<br>🎨 Design de interfaces e prototipagem interativa<br>⚡ Otimização avançada de sistemas operacionais e hardware</p>
 
-## 🛠️ Tecnologias e Ferramentas
+###
 
-### Linguagens e Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<h3 data-importer="text" align="left">🛠️ Tecnologias e Ferramentas</h3>
 
-### Banco de Dados & Design
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+###
 
----
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</div>
 
-## 📊 Estatísticas do GitHub
+###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/josehenriqueweb/josehenriqueweb/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/josehenriqueweb/josehenriqueweb/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/josehenriqueweb/josehenriqueweb/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://raw.githubusercontent.com/josehenriqueweb/josehenriqueweb/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/josehenriqueweb/josehenriqueweb/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
----
 
-⭐ Se curtir meu trabalho, considere deixar uma estrela nos repositórios  
-🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos
+###
+
+<p data-importer="text" align="left">⭐ Se curtir meu trabalho, considere deixar uma estrela nos repositórios<br>🤝 Sempre aberto a colaborações, parcerias e troca de conhecimentos</p>
+
+###
